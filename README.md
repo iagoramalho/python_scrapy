@@ -1,3 +1,3 @@
 # python_scrapy
 
-Repositório para aula Web Scrapy - MBA - Unipê 
+Repositório para a módulo Web Scrapy - MBA - Unipê 
