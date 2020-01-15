@@ -8,14 +8,12 @@ Avaliação 1:
 
 1) Implemente um programa que entre no site do UOL e imprima apenas a seguinte mensagem: A cotação atual do dólar é: <cotação>, onde <cotação> vai ser o valor capturado do site no momento. Procure uma forma de omitir as mensagens de log na execução do seu programa para aparecer apenas essa mensagem como saída.
 
-#Resposta: Q1_Cotação_Dolar.py
-            cotacao.csv
+#Resposta: Q1_Cotação_Dolar.py - cotacao.csv
 
 
 2) Implemente um programa que receba um produto como parâmetro e liste o nome e o preço de todos esses produtos no mercado livre, com paginação incluída. Busque uma forma de passar um parâmetro para o seu programa.
 
-#Resposta: Q2_MercadoLivre
-            notbook.json
+#Resposta: Q2_MercadoLivre - notbook.json
 
 
 3) Quais cuidados devem ser observados ao capturar dados de um site?
